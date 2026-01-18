@@ -173,7 +173,7 @@ Visualizations include **static plots, 3D surfaces, and animated GIFs** for intu
 - Normal Animation:  
 ![MC Animation](results/animations/Phase5_MC_Animation.gif)  
 - Enhanced Animation:  
-![Enhanced MC Animation](results/animations/Phase5_MC_Animation.gif)  
+![Enhanced MC Animation](results/animations/Phase5_MC_Animation_Enhanced.gif)  
 
 **Key Features:**  
 - Visual demonstration of stochastic evolution  
